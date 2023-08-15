@@ -1,0 +1,39 @@
+.BoxContainer {
+    width: 1226px;
+    height: 562px;
+    margin-top: 225px;
+    margin-left: 300px;
+    border-radius: 160px, 0px, 160px, 0px;
+    background-color: rgba(30, 40, 50, 0.05);
+}
+.Content{
+    justify-content: space-between !important;
+}
+
+.Image {
+    width: 424px !important;
+    height: 542px !important;
+
+    border-radius: 160px, 0px, 160px, 0px !important;
+}
+
+.ImgProduct {
+    width: 442px;
+    height: 562px;
+    border-radius: 160px, 0px, 160px, 0px;
+    background-color: rgba(30, 40, 50, 0.05) !important;
+}
+
+.rectengle {
+    width: 442px;
+    height: 542px;
+    border-radius: 160px, 0px, 160px, 0px;
+    border: 2px;
+    background-color: rgba(30, 40, 50, 0.05) !important;
+}
+.TextContent{
+    justify-content: center !important;
+    width:686px;
+    height:364px;
+margin-right: 300px;
+}

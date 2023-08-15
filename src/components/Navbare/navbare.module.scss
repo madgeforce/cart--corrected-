@@ -1,0 +1,60 @@
+.Container{
+width: 1320px !important;
+height: 113px !important;
+margin-top: 31px;
+margin-left: 300px;
+margin-right: 30px;
+margin-bottom: 1rem;
+background-color:
+rgba(30, 40, 50, 0.05);
+
+}
+.StackContainer{
+    justify-content: space-between;
+    border-bottom: 4px !important;
+border-color: black !important;
+
+}
+.ButtonAccout{
+   max-width: 25px !important;
+    max-height: 25px !important;
+    margin-left:   1.5rem  !important;
+    margin-right: 2rem !important;
+}
+.ButtonShopping{
+    max-width: 25px !important;
+     max-height: 25px !important;
+     margin-left:  2rem  !important;
+     margin-right: 2rem !important;
+ }
+.Text{
+    width: 67px;
+    height: 21px;
+    font-size: 18px;
+    color:black !important;
+}
+.ButtonsContainer{
+    display: flex;
+    
+}
+.CoralContainer{
+    font-size: 28px;
+    width: 98px;
+    height: 34px;
+
+}
+.TabList{
+    justify-content: space-between;
+    width:1320px;
+    height: 24px;
+    background-color: rgba(30, 40, 50, 0.05);
+    ;
+}
+.Tabs{
+    margin-top: 2.5rem !important;
+    
+}
+.Tab{
+    text-align: center !important;
+
+}
