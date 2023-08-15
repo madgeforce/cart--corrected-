@@ -5,7 +5,7 @@ import Paper from '@mui/material/Paper';
 import Box from '@mui/material/Box';
 import Styles from './section1.module.scss';
 import Stack from '@mui/material/Stack';
-import ButtonIconText from '../../../Button/ButtonIconText';
+import ButtonIconText from '../../../Button';
 import ShoppingBagRoundedIcon from '@mui/icons-material/ShoppingBagRounded';
 
 

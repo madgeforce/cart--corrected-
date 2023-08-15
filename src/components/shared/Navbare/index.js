@@ -6,7 +6,7 @@ import Styles from './navbare.module.scss';
 import SearchIcon from '@mui/icons-material/Search';
 import PersonRoundedIcon from '@mui/icons-material/PersonRounded';
 import ShoppingBagRoundedIcon from '@mui/icons-material/ShoppingBagRounded';
-import ButtonIcon from '../Button/ButtonIcons';
+import ButtonIcon from '../../Button';
 import { Button } from '@mui/material';
 import Tabs from '@mui/joy/Tabs';
 import TabList from '@mui/joy/TabList';
